@@ -59,7 +59,7 @@ const Profile = () => {
     };
 
     return (
-        <SafeAreaView className="h-full bg-white">
+        <SafeAreaView className="h-full bg-white mt-3">
             <ScrollView
                 showsVerticalScrollIndicator={false}
                 contentContainerClassName="pb-32 px-7"
